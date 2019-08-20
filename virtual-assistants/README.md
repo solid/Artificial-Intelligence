@@ -1,7 +1,7 @@
 
 # Virtual Assistants in Solid
 
-A project undertaken by the [Artificial Intelligence Panel](https://github.com/solid/artificial-intelligence-panel).
+A project undertaken by the [Artificial Intelligence Panel](artificial-intelligence-panel).
 
 ## Goal
 
