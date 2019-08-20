@@ -11,8 +11,8 @@ For contributing members see the
 
 ## Projects
 
-- [Virtual Assistants](https://github.com/solid/virtual-assistants/README.md)
-- [Neural Networks](https://github.com/solid/neural-networks/README.md)
+- [Virtual Assistants](virtual-assistants/README.md)
+- [Neural Networks](neural-networks/README.md)
 
 [Submit an issue](https://github.com/solid/artificial-intelligence-panel/issues/new)
 to propose a project for the panel to undertake.
