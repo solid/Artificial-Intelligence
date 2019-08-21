@@ -5,7 +5,7 @@ A project undertaken by the [Artificial Intelligence Panel](https://github.com/s
 
 ## Goal
 
-The aim of this is to produce a candidate proposal to the [Solid Specification](https://github.com/solid/specification) that defines a mechanism for how a data pod can store and use use neural networks.
+The aim of this is to produce a candidate proposal to the [Solid Specification](https://github.com/solid/specification) that defines a mechanism for how a data pod can store and use neural networks.
 
 ## Milestones
 
